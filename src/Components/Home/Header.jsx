@@ -1,5 +1,5 @@
 import React from "react";
-import cup from "../../assets/images/cup.png";
+import cup from "../../assets/images/Cup.png";
 import "aos/dist/aos.css";
 import AOS from "aos";
 
